@@ -15,7 +15,7 @@
 <p align="center">Aplicativo de Noticias e informações sobre o corona virus no Brasil e no Mundo>
 
 <h1 align="center">
-  <img width="500" style="border-radius: 10px" height="auto" alt="Corona" title="#Corona-News" src="public/images/f9382db8-7854-47e7-838b-7fae89ec2304.jpg" />
+  <img width="500" style="border-radius: 10px" height="auto" alt="Corona" title="#Corona-News" src="screenshot/Screenshot3.jpg" />
 </h1>
 
 
@@ -35,14 +35,14 @@ The following tools were used in the construction of the project:
 </h1>
 
 <h1 align="center">
- <img src=public/images/gif.gif  />
+ <img src=screenshot/demo.gif/>
 </h1>
 
 ### How to run the app locally 🤔
 ```
 # Clone repository
 
-$ git clone https://github.com/CaioSilveiraTelles/App-Mecanica.git
+$ git clone https://github.com/CaioSilveiraTelles/Corona_News_Brasil.git
 ```
 
 ```
