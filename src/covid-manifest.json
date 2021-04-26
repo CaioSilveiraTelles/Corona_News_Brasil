@@ -4,8 +4,8 @@
   "description": "Este projeto tem como objetivo principal ajudar as pessoas fornecendo informações sobre o COVID-19.",
   "dir": "auto",
   "lang": "pt-BR",
-  "start_url": "https://querocriarsite.com/projetos/coronavirus/",
-  "scope": "https://querocriarsite.com/projetos/coronavirus/",
+  "start_url": "https://brasilcovid.netlify.app/projetos/coronavirus/",
+  "scope": "https://brasilcovid.netlify.app/projetos/coronavirus/",
   "orientation": "any",
   "background_color": "#fff",
   "theme_color": "#fff",
@@ -77,6 +77,6 @@
       "sizes": "512x512"
     }
   ],
-  "url": "https://querocriarsite.com/projetos/coronavirus/",
+  "url": "https://brasilcovid.netlify.app/projetos/coronavirus/",
   "screenshots": []
 }
