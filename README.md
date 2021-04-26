@@ -6,9 +6,9 @@
 
 ![Badge](https://img.shields.io/badge/Corona-News-brightgreen)
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/forks/CaioSilveiraTelles/NLW.Move-it)
-![GitHub stars](https://img.shields.io/github/stars/CaioSilveiraTelles/NLW.Move-it)
-![GitHub forks](https://img.shields.io/github/license/CaioSilveiraTelles/NLW.Move-it)
+![GitHub contributors](https://img.shields.io/github/forks/CaioSilveiraTelles/Corona_News_Brasil)
+![GitHub stars](https://img.shields.io/github/stars/CaioSilveiraTelles/Corona_News_Brasil)
+![GitHub forks](https://img.shields.io/github/license/CaioSilveiraTelles/Corona_News_Brasil)
 
 
 </h1>
