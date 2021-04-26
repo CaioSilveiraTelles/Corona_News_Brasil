@@ -1,0 +1,31 @@
+{
+  "name": "coronavirus",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "https://github.com/querocriarsite/coronavirus.git",
+  "author": "Caio Silveira Telles <contato@querocriarsite.com> 'www.querocriarsite.com'",
+  "license": "MIT",
+  "devDependencies": {
+      "browser-sync": "^2.26.7",
+      "browser-sync-webpack-plugin": "^2.2.2",
+      "copy-webpack-plugin": "^6.0.2",
+      "css-loader": "^3.5.3",
+      "file-loader": "^6.0.0",
+      "html-webpack-plugin": "^4.3.0",
+      "mini-css-extract-plugin": "^0.9.0",
+      "node-sass": "^4.14.1",
+      "optimize-css-assets-webpack-plugin": "^5.0.3",
+      "sass-loader": "^8.0.2",
+      "style-loader": "^1.2.1",
+      "terser-webpack-plugin": "^3.0.3",
+      "webpack": "^4.43.0",
+      "webpack-cli": "^3.3.11",
+      "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+      "server": "webpack --mode production --watch",
+      "build": "webpack --mode production",
+      "dev": "webpack --mode development"
+  }
+}
