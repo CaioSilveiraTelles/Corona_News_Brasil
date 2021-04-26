@@ -4,7 +4,7 @@
 </h1>
 
 
-![Badge](https://img.shields.io/badge/NLW%20%234-Caio%20Silveira-brightgreen)
+![Badge](https://img.shields.io/badge/Corona-News-brightgreen)
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/forks/CaioSilveiraTelles/NLW.Move-it)
 ![GitHub stars](https://img.shields.io/github/stars/CaioSilveiraTelles/NLW.Move-it)
@@ -15,7 +15,7 @@
 <p align="center">Aplicativo de Noticias e informações sobre o corona virus no Brasil e no Mundo>
 
 <h1 align="center">
-  <img width="500" style="border-radius: 10px" height="auto" alt="Oficina" title="#Oficina" src="public/images/f9382db8-7854-47e7-838b-7fae89ec2304.jpg" />
+  <img width="500" style="border-radius: 10px" height="auto" alt="Corona" title="#Corona-News" src="public/images/f9382db8-7854-47e7-838b-7fae89ec2304.jpg" />
 </h1>
 
 
